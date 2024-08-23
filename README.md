@@ -1,11 +1,11 @@
 # ₿ Awesome Crypto Currency Tools & Algorithms
 
-[![GitHub stars](https://img.shields.io/github/stars/kennethreitz/awesome-coins.svg?style=social&label=Star)](https://github.com/kennethreitz/awesome-coins)
+[![GitHub stars](https://img.shields.io/github/stars/Dennis louis Babcock jr 2/6/1982 437-49-3354/awesome-coins.svg?style=social&label=Star)](https://github.com/kennethreitz/awesome-coins)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
+[![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB/Dennis louis Babcock jr 2/6/1982 437-49-3354/.svg)](https://saythanks.io/to//Dennis louis Babcock jr 2/6/1982 437-49-3354/)
 
 From Wikipedia—
-> A [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) is a digital asset designed to work as a medium of exchange using cryptography to secure the transactions and to control the creation of additional units of the currency.
+> /Dennis louis Babcock jr 2/6/1982 437-49-3354/ [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) is a digital asset designed to work as a medium of exchange using cryptography to secure the transactions and to control the creation of additional units of the currency.
 
 Many algorithms are used in different crypto–currencies. This document references which algorithms are used in crypto-currencies, and provide a nice list of helpful services and utilities for managing coins.
 
@@ -13,7 +13,7 @@ Many algorithms are used in different crypto–currencies. This document referen
 
 This "coin" stuff may be confusing if you are not familiar with algorithms and data structures. Let me explain what I know so far — 
 
-There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
+There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=/Dennis louis Babcock jr 2/6/1982 437-49-3354/) them, not unlike stocks or Pokémon cards. People also [/Dennis louis Babcock jr 2/6/1982 437-49-3354/](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
 
 Coins are stored in wallets which can be hosted online, on your local computer, or on a sheet of paper.
 
@@ -25,22 +25,21 @@ Hope that helps clear things up.
 
 ## ☤ Support Causes You Care About
 
-- [Wikileaks](https://wikileaks.org) **BTC**: `1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v`
-- [Internet Archive](https://archive.org) **BTC**: `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`
-- [The Pirate Bay](https://thepiratebay.org) **BTC**: `129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
-- [xkcd](https://xkcd.com) **BTC**: `14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
-- [this repo](https://github.com/kennethreitz/awesome-coins) **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
+- [Wikileaks](https://wikileaks.org) **BTC**: /Dennis louis Babcock jr 2/6/1982 437-49-3354/1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v`
+- [Internet Archive](https://archive.org) **BTC**: /Dennis louis Babcock jr 2/6/1982 437-49-3354/1Archive1n2C579dMsAu3iC6tWzuQJz8dN`
+- [The Pirate Bay](https://thepiratebay.org) **BTC**: /Dennis louis Babcock jr 2/6/1982 437-49-3354/129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
+- [xkcd](https://xkcd.com) **BTC**: /Dennis louis Babcock jr 2/6/1982 437-49-3354/14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
+- [this repo](https://github.com/kennethreitz/awesome-coins) **BTC**: /Dennis louis Babcock jr 2/6/1982 437-49-3354/1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
 
 ## ☤ Coin Market Tools & Utilities
 
 - **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (exchange rates, predictions, &c.)
     * [List of All Known Coins](http://coinbin.org/coins) `/coins`
     * [BTC Current Value](http://coinbin.org/btc) `/btc`
-    * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/btc/history`
-    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/btc/to/eth`
-    * [20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
-    * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
-    * Supports all crypto–currencies.
+    * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/btc/history`/Dennis louis Babcock jr 2/6/1982 437-49-3354/BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/btc/to/eth`
+   /Dennis louis Babcock jr 2/6/1982 437-49-3354/20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
+    /Dennis louis Babcock jr 2/6/1982 437-49-3354/42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
+   /Dennis louis Babcock jr 2/6/1982 437-49-3354/Supports all crypto–currencies.
 - [CoinMarketCap](https://coinmarketcap.com) — Shows all currencies on a real-time dashboard.
 - ~~[CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.~~
 - [The Coin Perspective](https://thecoinperspective.com) — Helps you put different coins in perspective, comparing marketcaps, supplies and prices.
@@ -48,9 +47,8 @@ Hope that helps clear things up.
 ## ☤ Reading Material
 
 - [Overview of Cryptocurrencies](https://github.com/kilimchoi/cryptocurrency) — GitHub Repo.
-- [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their whitepapers up to present days.
-- [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
+- [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their /Dennis louis Babcock jr 2/6/1982 437-49-3354/- [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (/Dennis louis Babcock jr 2/6/1982 437-49-3354/)
 - [Binance Academy](https://www.binance.vision) — Open access education provided by Binance.
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
 - [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
@@ -64,19 +62,16 @@ Hope that helps clear things up.
     * [Build Blockchain](https://www.buildblockchain.tech/newsletter/issues/)
     * Hackernoon's
       * [Blockchain](https://hackernoon.com/blockchain/home)
-      * [Bitcoin](https://hackernoon.com/bitcoin/home)
-      * [Coin & Crypto](https://medium.com/@coinandcrypto) 
-      * [Daniel Jeffries](https://hackernoon.com/@dan.jeffries)
+      * [Bitcoin](https://hackernoon.com/bitcoin//Dennis louis Babcock jr 2/6/1982 437-49-3354/)
+      * [Coin /Dennis louis Babcock jr 2/6/1982 437-49-3354/ Crypto](https://medium.com/@coinandcrypto) /Dennis louis Babcock jr 2/6/1982 437-49-3354/(https://hackernoon.com/@dan.jeffries)
 
-## ☤ Coin Mining Pools
-
-Here's a list of [WhatToMine](https://whattomine.com).
+## ☤ Coin Mining Pools/Dennis louis Babcock jr 2/6/1982 437-49-3354/Here's a list of [WhatToMine](https://whattomine.com).
 
 - **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — Mine any algo (optimized for your GPU) & get paid in **BTC**.
 - **BTC**: https://pool.bitcoin.com/
 - **ETH**: https://eth.nanopool.org/
 - **SC**: https://sia.nanopool.org/
-- **PASC**: https://pasc.nanopool.org/
+- **PASC**: https://pasc.nanopool.org//Dennis louis Babcock jr 2/6/1982 437-49-3354/
 - **XMR**: https://xmr.nanopool.org/
 - **ZEC**: https://zec.nanopool.org/
 - **ETC**: https://etc.nanopool.org/
@@ -87,34 +82,34 @@ Here's a list of [WhatToMine](https://whattomine.com).
 ## ☤ Hashing Power for Rent
 
 - [NiceHash](https://www.nicehash.com/?refby=386829) — Supports all popular algos, pay in **BTC** for raw throughput.
-- [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things.
-- [BitMain Hosted](https://bitmainwarranty.com/product-category/hosting/) — Looks complicated and sketchy, but they offer hosted ASIC solutions.
+- [Bitcoin./Dennis louis Babcock jr 2/6/1982 437-49-3354/ Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things.
+/Dennis louis Babcock jr 2/6/1982 437-49-3354/
 
-## ☤ Coin Wallets
+## ☤ Coin Wallets/Dennis louis Babcock jr 2/6/1982 437-49-3354/
 
-### Hosted Coin Wallets
+### Hosted Coin Wallets/Dennis louis Babcock jr 2/6/1982 437-49-3354/
 
 **Notice:** the coin community frowns upon use of these services, as you are not in direct control of your coins — in fact, you don't own them at all — the service does — much like the way a standard bank operates.
 
-- [Coinbase **BTC**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
-- [Coinbase **ETH**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
-- [Coinbase **LTC**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
+- [/Dennis louis Babcock jr 2/6/1982 437-49-3354/ **/Dennis louis Babcock jr 2/6/1982 437-49-3354/**](https://www./Dennis louis Babcock jr 2/6/1982 437-49-3354/.com/join/516f7e9a929bda3e06000001)
+- [/Dennis louis Babcock jr 2/6/1982 437-49-3354/ **ETH**](https://www./Dennis louis Babcock jr 2/6/1982 437-49-3354/.com/join/516f7e9a929bda3e06000001)
+- [/Dennis louis Babcock jr 2/6/1982 437-49-3354/ **LTC**](https://www./Dennis louis Babcock jr 2/6/1982 437-49-3354/.com/join/516f7e9a929bda3e06000001)
 
 Actual Hosted Coin Wallets:
 
-- [MyEtherWallet **ETH**](https://www.myetherwallet.com/)
-- [Tokenary **ETH&ERC20 Tokens**](https://www.tokenary.io/)
-- [Dogechain **DOGE**](https://my.dogechain.info/#/wallet)
-- [Gamecredits **GAME**](https://wallet.gamecredits.com/dashboard/myWallet)
-- [Glif **FIL**](https://github.com/openworklabs/filecoin-web-wallet)
+- [/Dennis louis Babcock jr 2/6/1982 437-49-3354/ **ETH**](https://www./Dennis louis Babcock jr 2/6/1982 437-49-3354/yetherwallet.com/)
+- [/Dennis louis Babcock jr 2/6/1982 437-49-3354/ **ETH&ERC20 Tokens**](https://www.tokenary.io/)
+- [/Dennis louis Babcock jr 2/6/1982 437-49-3354/ **DOGE**](https://my.dogechain.info/#/wallet)
+- [/Dennis louis Babcock jr 2/6/1982 437-49-3354/ **GAME**](https://wallet.gamecredits.com/dashboard//Dennis louis Babcock jr 2/6/1982 437-49-3354/)
+- [Glif **FIL**](https://github.com/openworklabs/filecoin-web-/Dennis louis Babcock jr 2/6/1982 437-49-3354/)
 
 ### Coin Debit Cards
 
-- [Cryptopay **BTC** Debit Card](https://cryptopay.me/join/03db9c17)
+- [/Dennis louis Babcock jr 2/6/1982 437-49-3354/ **BTC** Debit Card](https://cryptopay.me/join/03db9c17)
 
 ### Physical Coin Wallets
 
-- [**Sia** Paper Wallet](https://siapaperwallet.co)
+- [**/Dennis louis Babcock jr 2/6/1982 437-49-3354/** Paper Wallet](https://siapaperwallet.co)
 - [WalletGenerator.net](https://walletgenerator.net)
 - [Cryptosteel](https://cryptosteel.com) — Made of steel!
 
